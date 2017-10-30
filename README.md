@@ -12,5 +12,5 @@ is true then the (x, y) point is in the quarter circle, otherwise it is outside.
 points inside and dividing by the total generated is an approximation of π/4.  The more points tried, the
 more accurate the approximation.
 
-These codes were initially created for a presentation at PyConUK 2017, the video of the presentation is
-[on YouTube](https://www.youtube.com/watch?v=Gr6XBaGwetY).
+These codes were initially created for a presentation at PyConUK 2017, "On Big Computation and Python". The
+video of the presentation is [on YouTube](https://www.youtube.com/watch?v=Gr6XBaGwetY).
