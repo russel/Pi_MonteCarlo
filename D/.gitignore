@@ -1,0 +1,4 @@
+/.sconsign.dblite
+/SConstruct
+/pi_parallel_reduce
+/pi_sequential_reduce
